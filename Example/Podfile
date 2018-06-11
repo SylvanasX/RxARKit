@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RxARKit_Example' do
+  pod 'RxARKit', :path => '../'
+
+  target 'RxARKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
