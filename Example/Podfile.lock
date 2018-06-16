@@ -1,0 +1,16 @@
+PODS:
+  - RxARKit (0.1.0)
+
+DEPENDENCIES:
+  - RxARKit (from `../`)
+
+EXTERNAL SOURCES:
+  RxARKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RxARKit: 5f70ae898e0ddedf91b374fe3fb590c70261942c
+
+PODFILE CHECKSUM: de0eeb3f28ebf74a29f0eedbe4eb042f863bd702
+
+COCOAPODS: 1.5.3

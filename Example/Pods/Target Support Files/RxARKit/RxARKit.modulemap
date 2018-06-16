@@ -1,0 +1,6 @@
+framework module RxARKit {
+  umbrella header "RxARKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

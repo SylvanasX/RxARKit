@@ -1,0 +1,22 @@
+{
+  "name": "RxARKit",
+  "version": "0.1.0",
+  "summary": "A short description of RxARKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sy/RxARKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sy": "yuanpeitao@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sy/RxARKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RxARKit/Classes/**/*"
+}
