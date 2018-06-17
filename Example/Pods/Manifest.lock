@@ -1,16 +1,28 @@
 PODS:
-  - RxARKit (0.1.0)
+  - RxARKit (0.0.1):
+    - RxCocoa (~> 4.2.0)
+    - RxSwift (~> 4.2.0)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
 
 DEPENDENCIES:
   - RxARKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxCocoa
+    - RxSwift
 
 EXTERNAL SOURCES:
   RxARKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RxARKit: 5f70ae898e0ddedf91b374fe3fb590c70261942c
+  RxARKit: a1a808939dd8756068661d5b72fadf29899ee38c
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
 
-PODFILE CHECKSUM: de0eeb3f28ebf74a29f0eedbe4eb042f863bd702
+PODFILE CHECKSUM: a7dd78a1cdffd31ee935a1027813f5d1493b49a0
 
 COCOAPODS: 1.5.3
